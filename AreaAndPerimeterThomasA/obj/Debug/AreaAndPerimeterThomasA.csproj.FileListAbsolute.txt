@@ -1,0 +1,9 @@
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\bin\Debug\AreaAndPerimeterThomasA.exe.config
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\bin\Debug\AreaAndPerimeterThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\bin\Debug\AreaAndPerimeterThomasA.pdb
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\obj\Debug\AreaAndPerimeterThomasA.frmAreaAndPerimeter.resources
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\obj\Debug\AreaAndPerimeterThomasA.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\obj\Debug\AreaAndPerimeterThomasA.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\obj\Debug\AreaAndPerimeterThomasA.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\obj\Debug\AreaAndPerimeterThomasA.exe
+C:\Users\Thomas\Desktop\Programming\Introduction\AreaAndPerimeterThomasA\AreaAndPerimeterThomasA\obj\Debug\AreaAndPerimeterThomasA.pdb
